@@ -1,3 +1,7 @@
+<<<<<<< HEAD
 Hello worldпаапвапыывфывфыафа
 фывафыафыа
 ваывава
+=======
+Hello world
+>>>>>>> parent of 0b445dc (Update Read me.txt)
